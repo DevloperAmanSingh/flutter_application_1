@@ -1,16 +1,17 @@
-# flutter_application_1
+# Hacker News Reader
 
-A new Flutter project.
+Hacker News Reader is a Flutter app that allows you to browse and read news stories from Hacker News. It provides features such as viewing top stories, best stories, and new stories, as well as bookmarking stories and viewing user profiles.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- View top stories, best stories, and new stories from Hacker News.
+- Read full stories in a webview.
+- Bookmark stories to read later.
+- View user profiles with karma points, submission count, and comments count.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To use this app, simply clone the repository and run it using Flutter:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
